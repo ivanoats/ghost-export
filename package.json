@@ -15,7 +15,10 @@
     "export",
     "markdown"
   ],
-  "author": "Brian O'Keefe <brian@bokstuff.com> (http://bokstuff.com/)",
+  "contributors": [
+    "Brian O'Keefe <brian@bokstuff.com> (http://bokstuff.com/)",
+    "Ivan Storck <ivan@ivanstorck.com> (http://ivanstorck.com)"
+  ],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/ivanoats/ghost-export/issues"
