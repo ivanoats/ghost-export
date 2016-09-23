@@ -37,7 +37,9 @@
     "dateformat": "~1.0.8-1.2.3",
     "lodash": "^4.16.1",
     "mkdir-recursive": "^0.2.3",
-    "sqlite3": "~3.1.4"
+    "remove-markdown": "^0.1.0",
+    "sqlite3": "~3.1.4",
+    "striptags": "^2.1.1"
   },
   "preferGlobal": "true",
   "bin": {
